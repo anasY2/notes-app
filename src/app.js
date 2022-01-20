@@ -59,3 +59,5 @@ yargs.command({
   },
 });
 yargs.parse();
+//use node src/app.js add --title="Your title" --body="Content" to add a note
+//for other options like read,remove and list use title variable only
